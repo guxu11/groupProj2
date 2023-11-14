@@ -1,0 +1,5 @@
+Test for period. Test for question mark?
+
+Test for :
+
+"Test for question." "Test for question mark?"
